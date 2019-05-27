@@ -1,7 +1,5 @@
 ![Made with Love in India](https://madewithlove.org.in/badge.svg)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 # Cricket World Cup 2019
 
 The ICC Cricket World Cup is the international championship of One Day International (ODI) cricket. The event is organised by the sport's governing body, the International Cricket Council (ICC), every four years, with preliminary qualification rounds leading up to a finals tournament. The tournament is one of the world's most viewed sporting events and is considered the "flagship event of the international cricket calendar" by the ICC.
@@ -154,3 +152,6 @@ plt.xlabel("India")
 
 ![3](https://github.com/nimitsolanki/Cricket-World-Cup-2019/blob/master/images/3.png)
 
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
